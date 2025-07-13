@@ -9,7 +9,7 @@ I'm a DevOps and cloud enthusiast with hands-on experience in automating infrast
 Here are some of the highlights from my DevOps journey:
 
 - **DevOps-Driven Scalable Infrastructure on AWS**  
-  Automated deployment of a Node.js app using Terraform, Ansible, Docker, and Jenkins with RDS and Redis, secured via a bastion host.
+  Architected and automated cloud infrastructure using Terraform, Ansible, Docker, and Jenkins to deploy a containerized Node.js application with integrated RDS and Redis.     Enabled scalable, secure, and production-grade CI/CD pipelines with Infrastructure as Code and bastion-based SSH access.
 
 - **DevOps Jarvis**  
   A SaaS portal for on-demand provisioning of Hadoop clusters, LVMs, and web servers with full automation.
