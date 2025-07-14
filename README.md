@@ -8,13 +8,13 @@ I'm a DevOps and cloud enthusiast with hands-on experience in automating infrast
 
 Here are some of the highlights from my DevOps journey:
 
-- **DevOps-Driven Scalable Infrastructure on AWS**  
+- **[DevOps-Driven Scalable Infrastructure on AWS](https://github.com/Arjun0071/Infra_pipeline.git)**  
   Architected and automated cloud infrastructure using Terraform, Ansible, Docker, and Jenkins to deploy a containerized Node.js application with integrated RDS and Redis.     Enabled scalable, secure, and production-grade CI/CD pipelines with Infrastructure as Code and bastion-based SSH access.
 
-- **DevOps Jarvis**  
+- **[DevOps Jarvis](https://github.com/Arjun0071/PythonAutomation.git)**  
   A SaaS portal for on-demand provisioning of Hadoop clusters, LVMs, and web servers with full automation.
 
-- **Rail Tech Connect**  
+- **[Rail Tech Connect](https://github.com/Arjun0071/Collabforum_with-loadbalancer.git)**  
   Django-based system enabling interdepartmental collaboration for RDSO, deployed using HAProxy and Ansible.
 
 ---
